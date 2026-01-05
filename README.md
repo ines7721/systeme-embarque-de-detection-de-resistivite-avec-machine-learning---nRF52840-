@@ -42,6 +42,9 @@ Contraintes principales :
 - 6 entrées ADC → maximum 3 résistances mesurées simultanément
 - Mémoire RAM limitée (~256 kB)
 
+<img width="1488" height="1100" alt="unnamed (1)" src="https://github.com/user-attachments/assets/3c983f2a-5557-4053-a14f-50070a42e57a" />
+
+
 ---
 
 ## Fonctionnement général
