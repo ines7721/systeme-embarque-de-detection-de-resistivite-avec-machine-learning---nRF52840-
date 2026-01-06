@@ -59,11 +59,6 @@ Contraintes principales :
 
 ---
 
-## Structure du dépôt
-
-
----
-
 ## Paramètres principaux
 
 - Nombre de résistances mesurées
@@ -100,7 +95,6 @@ Contraintes principales :
 - Mémoire insuffisante pour un fonctionnement long terme
 - Nombre limité de GPIO ADC
 - Temps de calcul élevé lors de la classification
-- Entraînement Random Forest non finalisé par manque de temps
 - Consommation énergétique non évaluée
 
 ---
