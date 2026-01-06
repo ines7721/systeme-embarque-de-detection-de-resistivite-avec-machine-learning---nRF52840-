@@ -6,7 +6,7 @@
 ![SAADC](https://img.shields.io/badge/ADC-SAADC-orange)
 ![Signal Processing](https://img.shields.io/badge/Signal-Processing-brightgreen)
 ![Random Forest](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-yellow)
-![Research](https://img.shields.io/badge/Research-Project-red)
+ 
 
 ## Description du projet
 
