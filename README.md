@@ -1,10 +1,10 @@
 # Stage de deuxième année - Détection de variations de résistivité sur micro-contrôleur nRF52840 
 
 ![MicroPython](https://img.shields.io/badge/MicroPython-1.20+-blue?logo=python)
-![Embedded Systems](https://img.shields.io/badge/Embedded-Systems-lightgrey)
-![nRF52840](https://img.shields.io/badge/nRF52840-SoC-76B900)
+![Systèmes embarqués](https://img.shields.io/badge/Systèmes-embarqués-lightgrey)
+![Microcontrôlleur nRF52840](https://img.shields.io/badge/nRF52840-SoC-76B900)
+![Traitement du signal](https://img.shields.io/badge/Signal-processing-brightgreen)
 ![SAADC](https://img.shields.io/badge/ADC-SAADC-orange)
-![Signal Processing](https://img.shields.io/badge/Signal-Processing-brightgreen)
 ![Random Forest](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-yellow)
  
 
