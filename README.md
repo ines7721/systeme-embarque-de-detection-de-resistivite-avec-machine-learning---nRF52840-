@@ -10,8 +10,8 @@
 
 ## Description du projet
 
-Ce projet étudie la faisabilité d’un dispositif embarqué permettant la **détection de variations de résistivité** à l’aide de ponts diviseurs de tension et d’un micro-contrôleur **Seeed Studio XIAO nRF52840**.  
-Les données de résistivité sont acquises via le **SAADC**, traitées en temps réel, puis analysées à l’aide d’un **algorithme Random Forest implémenté en MicroPython**, afin de détecter la présence d’un composé cible (DMMP).
+Ce projet étudie la faisabilité d’un dispositif embarqué permettant la détection de variations de résistivité à l’aide de ponts diviseurs de tension et d’un micro-contrôleur Seeed Studio XIAO nRF52840.  
+Les données de résistivité sont acquises via le SAADC, traitées en temps réel, puis analysées à l’aide d’un algorithme Random Forest implémenté en MicroPython, afin de détecter la présence d’un composé cible : le DMMP.
 
 L’étude couvre :
 - l’architecture matérielle,
@@ -80,11 +80,11 @@ Contraintes principales :
 - Erreur moyenne ≈ **2–3 %**
 
 ### Fréquence d’échantillonnage
-- Fréquence maximale mesurée : **246.3 Hz**
+- Fréquence maximale mesurée : 246.3 Hz
 - Limitation due au temps d’exécution du code
 
 ### Mémoire et performances
-- La classification Random Forest consomme jusqu’à **~68 % de la RAM disponible**
+- La classification Random Forest consomme jusqu’à ~68 % de la RAM disponible
 - Exécution continue limitée à quelques minutes
 - La mémoire est le facteur limitant principal
 
