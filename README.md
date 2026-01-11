@@ -72,12 +72,12 @@ Contraintes principales :
 
 ---
 
-## Tests et validation
+## Résultats
 
 ### Précision des mesures
-- Résistance de référence optimale : **100 kΩ**
-- Plage de mesure fiable : **10 kΩ → 1 MΩ**
-- Erreur moyenne ≈ **2–3 %**
+- Résistance de référence optimale : 100 kΩ
+- Plage de mesure fiable : 10 kΩ → 1 MΩ
+- Erreur moyenne ≈ 2–3 %
 
 ### Fréquence d’échantillonnage
 - Fréquence maximale mesurée : 246.3 Hz
